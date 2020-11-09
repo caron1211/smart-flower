@@ -1,14 +1,31 @@
-
-
-# Flowers-Recognition - Web
-This is the client (front-end) side of my site, its purpose is to classify the type of flower in the image given to it as input.
-For the construction of the site I used React together with CSS and HTML 
-<br>
+# Smart-Flower
 ![](screenshot.gif)
+
+
+Smart-Flower is a React Web App for Classify flower types . See [Smart-Flower API](https://github.com/caron1211/smart-flower-api) for Back End Service.
+The classification of the images is based on a project I built in a machine learning course. See [machine learning course](https://github.com/caron1211/flowers-recognition)
+
+## Installation
 
 ### You can run it locally:
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
 
+## See live in github-pages
 
+https://caron1211.github.io/smart-flower/
+
+## Technologies
+
+### Front End
+
+- React
+- HTML 
+- CSS
+- JavaScript
+
+### Back End
+
+- Express
+- TensorFlow
