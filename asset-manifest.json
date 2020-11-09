@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/smart-flower/static/css/main.54277825.chunk.css",
+    "main.js": "/smart-flower/static/js/main.22ab34fd.chunk.js",
+    "main.js.map": "/smart-flower/static/js/main.22ab34fd.chunk.js.map",
+    "runtime-main.js": "/smart-flower/static/js/runtime-main.583d4b42.js",
+    "runtime-main.js.map": "/smart-flower/static/js/runtime-main.583d4b42.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/smart-flower/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.29a6cabc.chunk.js": "/smart-flower/static/js/2.29a6cabc.chunk.js",
+    "static/js/2.29a6cabc.chunk.js.map": "/smart-flower/static/js/2.29a6cabc.chunk.js.map",
+    "index.html": "/smart-flower/index.html",
+    "precache-manifest.94857c5852d367ca235ba0ab496ff80d.js": "/smart-flower/precache-manifest.94857c5852d367ca235ba0ab496ff80d.js",
+    "service-worker.js": "/smart-flower/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/smart-flower/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.54277825.chunk.css.map": "/smart-flower/static/css/main.54277825.chunk.css.map",
+    "static/js/2.29a6cabc.chunk.js.LICENSE.txt": "/smart-flower/static/js/2.29a6cabc.chunk.js.LICENSE.txt",
+    "static/media/brain.png": "/smart-flower/static/media/brain.4100098c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.583d4b42.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.29a6cabc.chunk.js",
+    "static/css/main.54277825.chunk.css",
+    "static/js/main.22ab34fd.chunk.js"
+  ]
+}
