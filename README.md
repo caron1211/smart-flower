@@ -3,7 +3,8 @@
 
 
 Smart-Flower is a React Web App for Classify flower types . See [Smart-Flower API](https://github.com/caron1211/smart-flower-api) for Back End Service.
-The classification of the images is based on a project I built in a machine learning course. See [machine learning course](https://github.com/caron1211/flowers-recognition)
+<br>
+The classification of the images is based on a project I built in a machine learning course. See [machine learning project](https://github.com/caron1211/flowers-recognition)
 
 ## Installation
 
